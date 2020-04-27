@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bank-of_ideas/static/css/main.be42dbb2.chunk.css",
-    "main.js": "/bank-of_ideas/static/js/main.d78a4764.chunk.js",
-    "main.js.map": "/bank-of_ideas/static/js/main.d78a4764.chunk.js.map",
-    "runtime-main.js": "/bank-of_ideas/static/js/runtime-main.e3439577.js",
-    "runtime-main.js.map": "/bank-of_ideas/static/js/runtime-main.e3439577.js.map",
-    "static/js/2.a37a6137.chunk.js": "/bank-of_ideas/static/js/2.a37a6137.chunk.js",
-    "static/js/2.a37a6137.chunk.js.map": "/bank-of_ideas/static/js/2.a37a6137.chunk.js.map",
-    "index.html": "/bank-of_ideas/index.html",
-    "precache-manifest.161ff68fe0900b19799092f55c58949d.js": "/bank-of_ideas/precache-manifest.161ff68fe0900b19799092f55c58949d.js",
-    "service-worker.js": "/bank-of_ideas/service-worker.js",
-    "static/css/main.be42dbb2.chunk.css.map": "/bank-of_ideas/static/css/main.be42dbb2.chunk.css.map",
-    "static/js/2.a37a6137.chunk.js.LICENSE.txt": "/bank-of_ideas/static/js/2.a37a6137.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/bank-of_ideas/static/media/1.37e7a7ea.jpg",
-    "static/media/startVideo.mp4": "/bank-of_ideas/static/media/startVideo.2545d9aa.mp4"
+    "main.css": "/bank-of-ideas/static/css/main.be42dbb2.chunk.css",
+    "main.js": "/bank-of-ideas/static/js/main.d78a4764.chunk.js",
+    "main.js.map": "/bank-of-ideas/static/js/main.d78a4764.chunk.js.map",
+    "runtime-main.js": "/bank-of-ideas/static/js/runtime-main.87175f3e.js",
+    "runtime-main.js.map": "/bank-of-ideas/static/js/runtime-main.87175f3e.js.map",
+    "static/js/2.a37a6137.chunk.js": "/bank-of-ideas/static/js/2.a37a6137.chunk.js",
+    "static/js/2.a37a6137.chunk.js.map": "/bank-of-ideas/static/js/2.a37a6137.chunk.js.map",
+    "index.html": "/bank-of-ideas/index.html",
+    "precache-manifest.6f8ae9e93734b59ba60ac0c9bf298e91.js": "/bank-of-ideas/precache-manifest.6f8ae9e93734b59ba60ac0c9bf298e91.js",
+    "service-worker.js": "/bank-of-ideas/service-worker.js",
+    "static/css/main.be42dbb2.chunk.css.map": "/bank-of-ideas/static/css/main.be42dbb2.chunk.css.map",
+    "static/js/2.a37a6137.chunk.js.LICENSE.txt": "/bank-of-ideas/static/js/2.a37a6137.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/bank-of-ideas/static/media/1.37e7a7ea.jpg",
+    "static/media/startVideo.mp4": "/bank-of-ideas/static/media/startVideo.2545d9aa.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3439577.js",
+    "static/js/runtime-main.87175f3e.js",
     "static/js/2.a37a6137.chunk.js",
     "static/css/main.be42dbb2.chunk.css",
     "static/js/main.d78a4764.chunk.js"
