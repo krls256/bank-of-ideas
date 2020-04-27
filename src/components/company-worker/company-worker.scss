@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+    justify-content: start;
+    padding: 20px 20px;
+    margin: 20px 30px;
+    border: 1px solid black;
+}
+.img {
+    img {
+        height: 250px;
+        border-radius: 4px
+    }
+}
+
+.info {
+   margin-left: 20px;
+   &__name {
+        font-size: 30px;
+        color: #000
+   }
+   &__role {
+       font-size: 14px;
+       color: #222
+   }
+   &__text {
+       font-size: 16px;
+       color: #000
+   }
+}
